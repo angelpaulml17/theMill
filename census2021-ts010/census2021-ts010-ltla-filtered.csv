@@ -1,0 +1,18 @@
+date,geography,geography code,Living arrangements: Total; measures: Value,Living arrangements: Living in a couple; measures: Value,Living arrangements: Living in a couple: Married or in a civil partnership; measures: Value,Living arrangements: Living in a couple: Married or in a civil partnership: Opposite-sex couple; measures: Value,Living arrangements: Living in a couple: Married or in a civil partnership: Same-sex couple; measures: Value,"Living arrangements: Living in a couple: Separated, but still married or in a civil partnership; measures: Value",Living arrangements: Living in a couple: Cohabiting; measures: Value,Living arrangements: Living in a couple: Cohabiting: Opposite-sex couple; measures: Value,Living arrangements: Living in a couple: Cohabiting: Same-sex couple; measures: Value,Living arrangements: Not living in a couple; measures: Value,Living arrangements: Not living in a couple: Single (never married and never registered a same-sex civil partnership); measures: Value,Living arrangements: Not living in a couple: Married or in a registered civil partnership; measures: Value,Living arrangements: Not living in a couple: Separated (including those who are married and those who are in civil partnerships); measures: Value,Living arrangements: Not living in a couple: Divorced or formerly in a civil partnership which is now legally dissolved; measures: Value,Living arrangements: Not living in a couple: Widowed or surviving partner from a civil partnership; measures: Value
+2021,Bolton,E08000001,230093,130867,100643,100139,504,181,30043,28800,1243,99226,61705,3782,4614,15644,13481
+2021,Bury,E08000002,153160,89267,67526,67051,475,135,21606,20502,1104,63893,39623,1919,2970,10443,8938
+2021,Manchester,E08000003,416255,183203,123590,121680,1910,410,59203,53987,5216,233052,174459,10449,9204,23608,15332
+2021,Oldham,E08000004,185621,101675,78540,78207,333,178,22957,22028,929,83946,53390,3915,4185,11680,10776
+2021,Rochdale,E08000005,173069,95620,71502,71148,354,172,23946,23026,920,77449,48831,2857,4054,11852,9855
+2021,Salford,E08000006,211259,107772,70013,69135,878,156,37603,34737,2866,103487,73401,2813,4198,13075,10000
+2021,Stockport,E08000007,236778,141992,107693,106859,834,219,34080,32296,1784,94786,58791,2052,3902,15321,14720
+2021,Tameside,E08000008,183795,102702,72704,72069,635,166,29832,28592,1240,81093,50690,1996,4013,13049,11345
+2021,Trafford,E08000009,184768,110623,87174,86494,680,178,23271,22125,1146,74145,47033,1902,3041,11625,10544
+2021,Wigan,E08000010,266231,159320,114657,114004,653,163,44500,42622,1878,106911,65340,1889,4971,18155,16556
+2021,Birmingham,E08000025,863226,414572,326809,324752,2057,972,86791,81934,4857,448654,310273,21840,20317,52408,43816
+2021,Coventry,E08000026,264156,137586,104261,103743,518,254,33071,31403,1668,126570,85125,5183,5333,16941,13988
+2021,Dudley,E08000027,260607,153697,116330,115679,651,204,37163,35532,1631,106910,65628,2605,5044,16446,17187
+2021,Sandwell,E08000028,264046,139908,108079,107691,388,312,31517,30011,1506,124138,80258,5955,5985,16145,15795
+2021,Solihull,E08000029,173232,103910,84004,83666,338,188,19718,18940,778,69322,42853,1714,2784,10508,11463
+2021,Walsall,E08000030,221389,125012,95105,94695,410,234,29673,28436,1237,96377,60608,3494,4388,13462,14425
+2021,Wolverhampton,E08000031,205091,109329,83203,82787,416,190,25936,24786,1150,95762,61397,4065,4256,13373,12671
